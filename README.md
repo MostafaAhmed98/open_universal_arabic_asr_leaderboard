@@ -26,7 +26,7 @@ Please first download the following test sets
 | [SADA](https://www.kaggle.com/datasets/sdaiancai/sada2022)                                      | 10             | 10.7        |
 | [Common Voice 18.0](https://commonvoice.mozilla.org/en/datasets)                                | 25             | 12.6        |
 | [MASC (Clean-Test)](https://ieee-dataport.org/open-access/masc-massive-arabic-speech-corpus)    | 7              | 10.5        |
-| [MASC (Noisy-Test)](https://ieee-dataport.org/open-access/masc-massive-arabic-speech-corpus)    | 8              | 14.9        |
+| [MASC (Noisy-Test)](https://ieee-dataport.org/open-access/masc-massive-arabic-speech-corpus)    | 8              | 8.9         |
 | [MGB-2](http://www.mgb-challenge.org/MGB-2.html)                                                | Unspecified    | 9.6         |
 | [Casablanca](https://huggingface.co/datasets/UBC-NLP/Casablanca)                                | 8              | 7.7         |
 
